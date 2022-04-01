@@ -7,5 +7,5 @@
   <project name="Techy0302/android_hardware_samsung" path="hardware/samsung" remote="Techy0302" revision="lineage-19.0" />
   <project name="Techy0302/android_hardware_samsung_nfc" path="hardware/samsung/nfc" remote="Techy0302" revision="lineage-18.1" />
   <project name="Techy0302/android_kernel_samsung_exynos9820" path="kernel/samsung/exynos9820" remote="Techy0302" revision="lineage-19.0" />
-  <project name="Techy0302/proprietary_vendor_samsung" path="vendor/samsung" remote="Techy0302" revision="lineage-19.0" />
+  <project name="Techy0302/proprietary_vendor_samsung" path="vendor/samsung" remote="Techy0302" revision="lineage-18.1" />
 </manifest>
