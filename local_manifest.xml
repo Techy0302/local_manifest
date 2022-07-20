@@ -2,13 +2,10 @@
 <manifest>
   <remote name="Techy0302" fetch="https://github.com"/>
 
-  <project name="Techy0302/android_device_samsung_j7elte" path="device/samsung/j7elte" remote="Techy0302" revision="lineage-18.1" />
-  <project name="Techy0302/android_device_samsung_universal7580-common" path="device/samsung/universal7580-common" remote="Techy0302" revision="lineage-18.1" />
+  <project name="Techy0302/android_device_samsung_beyond1lte" path="device/samsung/beyond1lte" remote="Techy0302" revision="lineage-18.1" />
+  <project name="Techy0302/android_device_samsung_exynos9820-common" path="device/samsung/exynos9820-common" remote="Techy0302" revision="lineage-18.1" />
   <project name="Techy0302/android_hardware_samsung" path="hardware/samsung" remote="Techy0302" revision="lineage-18.1" />
-  <project name="Techy0302/android_hardware_samsung_slsi_exynos" path="hardware/samsung_slsi/exynos" remote="Techy0302" revision="lineage-18.1" />
-  <project name="Techy0302/android_hardware_samsung_slsi_exynos5" path="hardware/samsung_slsi/exynos5" remote="Techy0302" revision="lineage-18.1" />
-  <project name="Techy0302/android_hardware_samsung_slsi_exynos7580" path="hardware/samsung_slsi/exynos7580" remote="Techy0302" revision="lineage-18.1" />
-  <project name="Techy0302/android_hardware_samsung_slsi_openmax" path="hardware/samsung_slsi/openmax" remote="Techy0302" revision="lineage-18.1" />
-  <project name="Techy0302/android_kernel_samsung_universal7580" path="kernel/samsung/universal7580" remote="Techy0302" revision="lineage-18.1" />
-  <project name="Techy0302/proprietary_vendor_samsung" path="vendor/samsung" remote="Techy0302" revision="lineage-18.1" />
+  <project name="Techy0302/android_hardware_samsung_nfc" path="hardware/samsung/nfc" remote="Techy0302" revision="lineage-18.1" />
+  <project name="Techy0302/android_kernel_samsung_exynos9820" path="kernel/samsung/exynos9820" remote="Techy0302" revision="lineage-18.1" />
+  <project name="Linux4/proprietary_vendor_samsung" path="vendor/samsung" remote="Linux4" revision="lineage-18.1" />
 </manifest>
